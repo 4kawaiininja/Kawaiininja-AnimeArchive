@@ -1,0 +1,43 @@
+{
+    "title": {
+        "Romanji": "",
+        "Native": "",
+        "English": ""
+    },
+    "image": {
+        "season_poster": {
+            "1": "",
+            "2": ""
+        },
+        "background": {
+            "1": "",
+            "2": ""
+        }
+    },
+    "synopsis": "",
+    "type": {
+        "tv": {
+            "seasons": [
+                {
+                    "status": "",
+                    "released": 0,
+                    "season_number": 1,
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "title": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        "movie": [
+            {
+                "title": "",
+                "status": "",
+                "released": 0,
+                "synopsis": ""
+            }
+        ]
+    }
+}
