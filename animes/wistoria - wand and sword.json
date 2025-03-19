@@ -1,0 +1,78 @@
+{
+    "title": {
+        "Romanji": "Wistoria: Wand and Sword",
+        "Native": "杖と剣のウィストリア",
+        "English": "Wistoria: Wand and Sword"
+    },
+    "image": {
+        "season_poster": {
+            "1": "https://i.pinimg.com/736x/04/44/fc/0444fcfa290d81ac64921a5b6e967a2e.jpg"
+        },
+        "background": {
+            "1": "https://i.pinimg.com/736x/7b/d2/83/7bd2830ffe846f784084d9aa4889962e.jpg"
+        }
+    },
+    "synopsis": "In a world where magic reigns supreme, Will Serfort is an aspiring mage at the prestigious Rigarden Magic Academy. However, he has a major problem—he lacks any magical talent. Despite this, he refuses to give up on his dream of becoming a Magia Vander and instead takes an unconventional path, using his swordsmanship to rise through the ranks in a world dominated by wands.",
+    "type": {
+        "tv": {
+            "seasons": [
+                {
+                    "status": "Completed",
+                    "released": 2024,
+                    "season_number": 1,
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "title": "Like a Lone Sword"
+                        },
+                        {
+                            "episode_number": 2,
+                            "title": "As Though Undaunted"
+                        },
+                        {
+                            "episode_number": 3,
+                            "title": "Order & Watcher"
+                        },
+                        {
+                            "episode_number": 4,
+                            "title": "The Eve of the Grand Festival"
+                        },
+                        {
+                            "episode_number": 5,
+                            "title": "Raise the Starting Pistol"
+                        },
+                        {
+                            "episode_number": 6,
+                            "title": "Between Pride and Passion"
+                        },
+                        {
+                            "episode_number": 7,
+                            "title": "Twelve Secret Ice Magics, El Glace Frosse"
+                        },
+                        {
+                            "episode_number": 8,
+                            "title": "Shall we date?"
+                        },
+                        {
+                            "episode_number": 9,
+                            "title": "Praxis Begins"
+                        },
+                        {
+                            "episode_number": 10,
+                            "title": "Our Dream"
+                        },
+                        {
+                            "episode_number": 11,
+                            "title": "The True Name of Cowards"
+                        },
+                        {
+                            "episode_number": 12,
+                            "title": "Wand and Sword"
+                        }
+                    ]
+                }
+            ]
+        },
+        "movie": []
+    }
+}

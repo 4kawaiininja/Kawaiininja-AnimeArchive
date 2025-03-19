@@ -1,0 +1,200 @@
+{
+    "title": {
+        "Romanji": "Kimi ni Todoke",
+        "Native": "君に届け",
+        "English": "From Me to You"
+    },
+    "image": {
+        "season_poster": {
+            "1": "https://i.pinimg.com/736x/77/b5/46/77b546d8799ab94a8abd705ead8513ff.jpg",
+            "2": "https://i.pinimg.com/736x/42/46/e2/4246e24d8c1335c90ab3dbeb4662fbc1.jpg"
+        },
+        "background": {
+            "1": "https://i.pinimg.com/736x/77/b5/46/77b546d8799ab94a8abd705ead8513ff.jpg",
+            "2": "https://i.pinimg.com/736x/27/3f/80/273f80c868844aa31083b9c42a9b50e8.jpg"
+        }
+    },
+    "synopsis": "Sawako Kuronuma, a kind-hearted but shy girl, struggles to make friends because of her resemblance to Sadako from 'The Ring.' However, everything changes when the outgoing and popular Shouta Kazehaya starts talking to her, opening the doors to friendship, love, and self-growth.",
+    "type": {
+        "tv": {
+            "seasons": [
+                {
+                    "status": "Completed",
+                    "released": 2009,
+                    "season_number": 1,
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "title": "Prologue"
+                        },
+                        {
+                            "episode_number": 2,
+                            "title": "Seat Change"
+                        },
+                        {
+                            "episode_number": 3,
+                            "title": "After School"
+                        },
+                        {
+                            "episode_number": 4,
+                            "title": "Rumors"
+                        },
+                        {
+                            "episode_number": 5,
+                            "title": "Determination"
+                        },
+                        {
+                            "episode_number": 6,
+                            "title": "Friends"
+                        },
+                        {
+                            "episode_number": 7,
+                            "title": "Saturday Night"
+                        },
+                        {
+                            "episode_number": 8,
+                            "title": "Self-Study"
+                        },
+                        {
+                            "episode_number": 9,
+                            "title": "New Friends"
+                        },
+                        {
+                            "episode_number": 10,
+                            "title": "Fear"
+                        },
+                        {
+                            "episode_number": 11,
+                            "title": "Special Event"
+                        },
+                        {
+                            "episode_number": 12,
+                            "title": "Romantic Feelings"
+                        },
+                        {
+                            "episode_number": 13,
+                            "title": "Gift"
+                        },
+                        {
+                            "episode_number": 14,
+                            "title": "Kurumi"
+                        },
+                        {
+                            "episode_number": 15,
+                            "title": "Rival"
+                        },
+                        {
+                            "episode_number": 16,
+                            "title": "Night"
+                        },
+                        {
+                            "episode_number": 17,
+                            "title": "Holiday"
+                        },
+                        {
+                            "episode_number": 18,
+                            "title": "Love"
+                        },
+                        {
+                            "episode_number": 19,
+                            "title": "Dream"
+                        },
+                        {
+                            "episode_number": 20,
+                            "title": "Present"
+                        },
+                        {
+                            "episode_number": 21,
+                            "title": "It's Not Like That"
+                        },
+                        {
+                            "episode_number": 22,
+                            "title": "A Different Person"
+                        },
+                        {
+                            "episode_number": 23,
+                            "title": "Leave it to Me"
+                        },
+                        {
+                            "episode_number": 24,
+                            "title": "Birthday"
+                        },
+                        {
+                            "episode_number": 25,
+                            "title": "New Year"
+                        }
+                    ]
+                },
+                {
+                    "status": "Completed",
+                    "released": 2011,
+                    "season_number": 2,
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "title": "Valentine"
+                        },
+                        {
+                            "episode_number": 2,
+                            "title": "2nd Years"
+                        },
+                        {
+                            "episode_number": 3,
+                            "title": "Forget About It"
+                        },
+                        {
+                            "episode_number": 4,
+                            "title": "Misunderstood"
+                        },
+                        {
+                            "episode_number": 5,
+                            "title": "Falling Apart"
+                        },
+                        {
+                            "episode_number": 6,
+                            "title": "Soulmates"
+                        },
+                        {
+                            "episode_number": 7,
+                            "title": "Just Give Up"
+                        },
+                        {
+                            "episode_number": 8,
+                            "title": "Reach"
+                        },
+                        {
+                            "episode_number": 9,
+                            "title": "Confession"
+                        },
+                        {
+                            "episode_number": 10,
+                            "title": "From Now On"
+                        },
+                        {
+                            "episode_number": 11,
+                            "title": "Moving Forward"
+                        },
+                        {
+                            "episode_number": 12,
+                            "title": "Final Episode"
+                        }
+                    ]
+                }
+            ]
+        },
+        "movie": [
+            {
+                "title": "Kimi ni Todoke Live Action",
+                "status": "Released",
+                "released": 2010,
+                "synopsis": "A live-action adaptation following Sawako Kuronuma's journey as she overcomes misunderstandings and forges genuine friendships."
+            },
+            {
+                "title": "Kimi ni Todoke Netflix Live Action",
+                "status": "Released",
+                "released": 2023,
+                "synopsis": "A Netflix adaptation of the beloved romance story, focusing on the blossoming relationship between Sawako and Kazehaya."
+            }
+        ]
+    }
+}
