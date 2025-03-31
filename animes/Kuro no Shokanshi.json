@@ -1,0 +1,80 @@
+{
+    "title": {
+        "Romanji": "Kuro no Shoukanshi",
+        "Native": "黒の召喚士",
+        "English": "Black Summoner"
+    },
+    "image": {
+        "season_poster": {
+            "1": "",
+            "2": ""
+        },
+        "background": {
+            "1": "",
+            "2": ""
+        }
+    },
+    "synopsis": "After waking up in an unfamiliar place, Kelvin learns that he has been reincarnated into a new world as a summoner. With his past memories sacrificed for powerful abilities, he embarks on an adventure filled with battles, magic, and newfound allies.",
+    "type": {
+        "tv": {
+            "seasons": [
+                {
+                    "status": "completed",
+                    "released": 2022,
+                    "season_number": 1,
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "title": "Reincarnated Without Memories"
+                        },
+                        {
+                            "episode_number": 2,
+                            "title": "Dark Knight"
+                        },
+                        {
+                            "episode_number": 3,
+                            "title": "Demon"
+                        },
+                        {
+                            "episode_number": 4,
+                            "title": "Demon Lord's Daughter"
+                        },
+                        {
+                            "episode_number": 5,
+                            "title": "Clash! Battle of the Mighty"
+                        },
+                        {
+                            "episode_number": 6,
+                            "title": "Arthur and the Knights of the Round"
+                        },
+                        {
+                            "episode_number": 7,
+                            "title": "Hero Summoning"
+                        },
+                        {
+                            "episode_number": 8,
+                            "title": "Returning to Parth"
+                        },
+                        {
+                            "episode_number": 9,
+                            "title": "Gambling Power"
+                        },
+                        {
+                            "episode_number": 10,
+                            "title": "Rank S Promotion Exam"
+                        },
+                        {
+                            "episode_number": 11,
+                            "title": "Another Reincarnated"
+                        },
+                        {
+                            "episode_number": 12,
+                            "title": "Battle of the Demon"
+                        }
+                    ]
+                }
+            ]
+        },
+        "movie": []
+    }
+}

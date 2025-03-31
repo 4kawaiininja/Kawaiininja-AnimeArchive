@@ -1,0 +1,78 @@
+{
+    "title": {
+        "Romanji": "Level 1 dakedo Unique Skill de Saikyou desu",
+        "Native": "レベル1だけどユニークスキルで最強です",
+        "English": "My Unique Skill Makes Me OP Even at Level 1"
+    },
+    "image": {
+        "season_poster": {
+            "1": "https://upload.wikimedia.org/wikipedia/en/5/5e/Level_1_dakedo_Unique_Skill_de_Saiky%C5%8D_desu_light_novel_volume_1_cover.jpg"
+        },
+        "background": {
+            "1": "https://static.anime-planet.com/anime/primary/my-unique-skill-makes-me-op-even-at-level-1-1.jpg"
+        }
+    },
+    "synopsis": "Ryota Sato, a corporate worker, suddenly finds himself in a dungeon in another world where monsters drop items as loot. With the help of a girl named Emily, he discovers that his stats are all at the weakest rank F, and his level is stuck at 1. However, he possesses a unique skill that allows him to obtain rare drops, giving him an edge despite his low level.",
+    "type": {
+        "tv": {
+            "seasons": [
+                {
+                    "status": "Completed",
+                    "released": 2023,
+                    "season_number": 1,
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "title": "He's a Human That Was Dropped by a Slime"
+                        },
+                        {
+                            "episode_number": 2,
+                            "title": "Dead or Carrot"
+                        },
+                        {
+                            "episode_number": 3,
+                            "title": "Kill All the Little Black Things"
+                        },
+                        {
+                            "episode_number": 4,
+                            "title": "Moving to a New Place! Just Relaxing at Home"
+                        },
+                        {
+                            "episode_number": 5,
+                            "title": "Yay! It's My Turn Now"
+                        },
+                        {
+                            "episode_number": 6,
+                            "title": "A Beautiful Girl Appears"
+                        },
+                        {
+                            "episode_number": 7,
+                            "title": "This Dungeon Battle Is a Vortex of Schemes"
+                        },
+                        {
+                            "episode_number": 8,
+                            "title": "You Can Do It! Get 'Em, Celeste!"
+                        },
+                        {
+                            "episode_number": 9,
+                            "title": "We've All Been Waiting! It's Eve's Turn to Shine"
+                        },
+                        {
+                            "episode_number": 10,
+                            "title": "The Arrival of Alice"
+                        },
+                        {
+                            "episode_number": 11,
+                            "title": "Time for the Harvest Festival"
+                        },
+                        {
+                            "episode_number": 12,
+                            "title": "We're All Having a Party"
+                        }
+                    ]
+                }
+            ]
+        },
+        "movie": []
+    }
+}

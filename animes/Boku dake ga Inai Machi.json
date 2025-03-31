@@ -1,0 +1,78 @@
+{
+    "title": {
+        "Romanji": "Boku dake ga Inai Machi",
+        "Native": "僕だけがいない街",
+        "English": "Erased"
+    },
+    "image": {
+        "season_poster": {
+            "1": "https://upload.wikimedia.org/wikipedia/en/7/70/Boku_dake_ga_Inai_Machi_manga_volume_1_cover.jpg"
+        },
+        "background": {
+            "1": "https://cdn.animenewsnetwork.com/thumbnails/max650x650/cms/news.6/101277/boku-dake-anime-visual.jpg"
+        }
+    },
+    "synopsis": "Satoru Fujinuma, a 29-year-old manga artist, possesses a unique ability called 'Revival' that sends him back in time moments before a life-threatening incident, allowing him to prevent it. When his mother is murdered, Satoru is sent back 18 years into the past, to his elementary school days, where he must uncover the mystery behind a series of kidnappings to alter the future and save his loved ones.",
+    "type": {
+        "tv": {
+            "seasons": [
+                {
+                    "status": "Completed",
+                    "released": 2016,
+                    "season_number": 1,
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "title": "Flashing Before My Eyes"
+                        },
+                        {
+                            "episode_number": 2,
+                            "title": "Palm of the Hand"
+                        },
+                        {
+                            "episode_number": 3,
+                            "title": "Birthmark"
+                        },
+                        {
+                            "episode_number": 4,
+                            "title": "Accomplishment"
+                        },
+                        {
+                            "episode_number": 5,
+                            "title": "Getaway"
+                        },
+                        {
+                            "episode_number": 6,
+                            "title": "Grim Reaper"
+                        },
+                        {
+                            "episode_number": 7,
+                            "title": "Out of Control"
+                        },
+                        {
+                            "episode_number": 8,
+                            "title": "Spiral"
+                        },
+                        {
+                            "episode_number": 9,
+                            "title": "Closure"
+                        },
+                        {
+                            "episode_number": 10,
+                            "title": "Joy"
+                        },
+                        {
+                            "episode_number": 11,
+                            "title": "Future"
+                        },
+                        {
+                            "episode_number": 12,
+                            "title": "Treasure"
+                        }
+                    ]
+                }
+            ]
+        },
+        "movie": []
+    }
+}
