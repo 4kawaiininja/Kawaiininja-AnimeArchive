@@ -1,0 +1,41 @@
+{
+    "title": {
+        "Romanji": "Bocchi the Rock!",
+        "Native": "ぼっち・ざ・ろっく！",
+        "English": "Bocchi the Rock!"
+    },
+    "image": {
+        "season_poster": {
+            "1": "https://i.pinimg.com/736x/43/53/ab/4353ab30f603d2eccb4401a7a0c2f3ac.jpg"
+        },
+        "background": {
+            "1": "https://i.pinimg.com/736x/90/fd/f6/90fdf689531500ef2cdc2b05492763e8.jpg"
+        }
+    },
+    "synopsis": "Hitori Gotou, a socially anxious girl who dreams of becoming a rock star, finally gets a chance to shine when she joins the Kessoku Band. Despite her struggles with communication, she finds herself in the chaotic yet heartwarming world of music and friendship.",
+    "type": {
+        "tv": {
+            "seasons": [
+                {
+                    "status": "Finished Airing",
+                    "released": 2022,
+                    "season_number": 1,
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "title": "Lonely Rolling Bocchi"
+                        }
+                    ]
+                }
+            ]
+        },
+        "movie": [
+            {
+                "title": "Bocchi the Rock! Movie",
+                "status": "Upcoming",
+                "released": 2024,
+                "synopsis": "A compilation film retelling the events of the anime series."
+            }
+        ]
+    }
+}
