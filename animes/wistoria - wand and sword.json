@@ -6,10 +6,12 @@
     },
     "image": {
         "season_poster": {
-            "1": "https://i.pinimg.com/736x/04/44/fc/0444fcfa290d81ac64921a5b6e967a2e.jpg"
+            "1": "https://i.pinimg.com/736x/04/44/fc/0444fcfa290d81ac64921a5b6e967a2e.jpg",
+            "2": ""
         },
         "background": {
-            "1": "https://i.pinimg.com/736x/7b/d2/83/7bd2830ffe846f784084d9aa4889962e.jpg"
+            "1": "https://i.pinimg.com/736x/7b/d2/83/7bd2830ffe846f784084d9aa4889962e.jpg",
+            "2": ""
         }
     },
     "synopsis": "In a world where magic reigns supreme, Will Serfort is an aspiring mage at the prestigious Rigarden Magic Academy. However, he has a major problem—he lacks any magical talent. Despite this, he refuses to give up on his dream of becoming a Magia Vander and instead takes an unconventional path, using his swordsmanship to rise through the ranks in a world dominated by wands.",

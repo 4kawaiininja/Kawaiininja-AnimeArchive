@@ -6,10 +6,12 @@
     },
     "image": {
         "season_poster": {
-            "1": "https://upload.wikimedia.org/wikipedia/en/5/5e/Level_1_dakedo_Unique_Skill_de_Saiky%C5%8D_desu_light_novel_volume_1_cover.jpg"
+            "1": "https://upload.wikimedia.org/wikipedia/en/5/5e/Level_1_dakedo_Unique_Skill_de_Saiky%C5%8D_desu_light_novel_volume_1_cover.jpg",
+            "2": "https://i.pinimg.com/736x/a6/7b/5f/a67b5f92d9c31689ba0016fb0b814e84.jpg"
         },
         "background": {
-            "1": "https://static.anime-planet.com/anime/primary/my-unique-skill-makes-me-op-even-at-level-1-1.jpg"
+            "1": "https://i.pinimg.com/736x/fd/a2/08/fda20883cbe3271901fc43f077a38023.jpg",
+            "2": "https://i.pinimg.com/736x/fd/a2/08/fda20883cbe3271901fc43f077a38023.jpg"
         }
     },
     "synopsis": "Ryota Sato, a corporate worker, suddenly finds himself in a dungeon in another world where monsters drop items as loot. With the help of a girl named Emily, he discovers that his stats are all at the weakest rank F, and his level is stuck at 1. However, he possesses a unique skill that allows him to obtain rare drops, giving him an edge despite his low level.",

@@ -19,7 +19,7 @@
         "tv": {
             "seasons": [
                 {
-                    "status": "Aired",
+                    "status": "Completed",
                     "released": 2024,
                     "season_number": 1,
                     "episodes": [
@@ -74,7 +74,7 @@
                     ]
                 },
                 {
-                    "status": "Ongoing",
+                    "status": "Completed",
                     "released": 2025,
                     "season_number": 2,
                     "episodes": [
