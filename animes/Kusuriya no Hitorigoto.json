@@ -1,0 +1,232 @@
+{
+    "title": {
+        "Romanji": "Kusuriya no Hitorigoto",
+        "Native": "薬屋のひとりごと",
+        "English": "The Apothecary Diaries"
+    },
+    "image": {
+        "season_poster": {
+            "1": "https://www.zerochan.net/4029516",
+            "2": "https://www.zerochan.net/4004057"
+        },
+        "background": {
+            "1": "https://www.zerochan.net/4029516",
+            "2": "https://www.zerochan.net/4004057"
+        }
+    },
+    "synopsis": "Maomao, a skilled apothecary, is kidnapped and sold into servitude at the emperor's palace. While serving as a lowly servant, she secretly uses her medical knowledge to solve various mysteries within the royal court, drawing the attention of the influential eunuch, Jinshi.",
+    "type": {
+        "tv": {
+            "seasons": [
+                {
+                    "status": "Released",
+                    "released": 2023,
+                    "season_number": 1,
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "title": "Maomao"
+                        },
+                        {
+                            "episode_number": 2,
+                            "title": "Chilly Apothecary"
+                        },
+                        {
+                            "episode_number": 3,
+                            "title": "The Unsettling Matter of the Spirit"
+                        },
+                        {
+                            "episode_number": 4,
+                            "title": "The Garden Party"
+                        },
+                        {
+                            "episode_number": 5,
+                            "title": "The Cat's Death Anniversary"
+                        },
+                        {
+                            "episode_number": 6,
+                            "title": "The Scent of a Kill"
+                        },
+                        {
+                            "episode_number": 7,
+                            "title": "The Apothecary's Test"
+                        },
+                        {
+                            "episode_number": 8,
+                            "title": "The Snake's Venom"
+                        },
+                        {
+                            "episode_number": 9,
+                            "title": "The Phantom of the Inner Palace"
+                        },
+                        {
+                            "episode_number": 10,
+                            "title": "The Emperor's Illness"
+                        },
+                        {
+                            "episode_number": 11,
+                            "title": "The Court Physician's Secret"
+                        },
+                        {
+                            "episode_number": 12,
+                            "title": "The Apothecary's Dilemma"
+                        },
+                        {
+                            "episode_number": 13,
+                            "title": "The Red Hair"
+                        },
+                        {
+                            "episode_number": 14,
+                            "title": "The Missing Maomao"
+                        },
+                        {
+                            "episode_number": 15,
+                            "title": "The Investigation"
+                        },
+                        {
+                            "episode_number": 16,
+                            "title": "The Truth Unveiled"
+                        },
+                        {
+                            "episode_number": 17,
+                            "title": "The Betrayal"
+                        },
+                        {
+                            "episode_number": 18,
+                            "title": "The Rescue"
+                        },
+                        {
+                            "episode_number": 19,
+                            "title": "The Aftermath"
+                        },
+                        {
+                            "episode_number": 20,
+                            "title": "The New Assignment"
+                        },
+                        {
+                            "episode_number": 21,
+                            "title": "The Hidden Threat"
+                        },
+                        {
+                            "episode_number": 22,
+                            "title": "The Confrontation"
+                        },
+                        {
+                            "episode_number": 23,
+                            "title": "The Resolution"
+                        },
+                        {
+                            "episode_number": 24,
+                            "title": "The Beginning of a New Chapter"
+                        }
+                    ]
+                },
+                {
+                    "status": "Ongoing",
+                    "released": 2025,
+                    "season_number": 2,
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "title": "Return to the Palace"
+                        },
+                        {
+                            "episode_number": 2,
+                            "title": "A New Mystery"
+                        },
+                        {
+                            "episode_number": 3,
+                            "title": "The Secret Letter"
+                        },
+                        {
+                            "episode_number": 4,
+                            "title": "The Noble's Request"
+                        },
+                        {
+                            "episode_number": 5,
+                            "title": "The Unseen Threat"
+                        },
+                        {
+                            "episode_number": 6,
+                            "title": "The Emperor's Condition"
+                        },
+                        {
+                            "episode_number": 7,
+                            "title": "The Hidden Ingredient"
+                        },
+                        {
+                            "episode_number": 8,
+                            "title": "The Rival Apothecary"
+                        },
+                        {
+                            "episode_number": 9,
+                            "title": "The Forbidden Experiment"
+                        },
+                        {
+                            "episode_number": 10,
+                            "title": "The Royal Banquet"
+                        },
+                        {
+                            "episode_number": 11,
+                            "title": "The Poisonous Truth"
+                        },
+                        {
+                            "episode_number": 12,
+                            "title": "The Unexpected Turn"
+                        },
+                        {
+                            "episode_number": 13,
+                            "title": "The Next Step"
+                        },
+                        {
+                            "episode_number": 14,
+                            "title": "The Next Step"
+                        },
+                        {
+                            "episode_number": 16,
+                            "title": "The Next Step"
+                        },
+                        {
+                            "episode_number": 17,
+                            "title": "The Next Step"
+                        },
+                        {
+                            "episode_number": 18,
+                            "title": "The Next Step"
+                        },
+                        {
+                            "episode_number": 19,
+                            "title": "The Next Step"
+                        },
+                        {
+                            "episode_number": 20,
+                            "title": "The Next Step"
+                        },
+                        {
+                            "episode_number": 21,
+                            "title": "The Next Step"
+                        },
+                        {
+                            "episode_number": 22,
+                            "title": "The Next Step"
+                        },
+                        {
+                            "episode_number": 23,
+                            "title": "The Next Step"
+                        },
+                        {
+                            "episode_number": 24,
+                            "title": "The Next Step"
+                        }
+                    ]
+                }
+            ]
+        },
+        "movie": []
+    },
+    "tracker": {
+        "status": "Watching",
+        "progress": 0,
+        "rewatch_count": 1
+    }
+}

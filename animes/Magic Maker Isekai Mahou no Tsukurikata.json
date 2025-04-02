@@ -1,0 +1,83 @@
+{
+    "title": {
+        "Romanji": "Magic Maker: Isekai Mahou no Tsukurikata",
+        "Native": "マジックメーカー 〜異世界魔法の作り方〜",
+        "English": "Magic Maker: How to Make Magic in Another World"
+    },
+    "image": {
+        "season_poster": {
+            "1": "https://tse3.mm.bing.net/th?id=OIP.1bLZipSNPD7QubCy3mEkLAHaKe&pid=Api"
+        },
+        "background": {
+            "1": "https://tse3.mm.bing.net/th?id=OIP.TAXpalgbAOKysPKe5SaAZwHaLH&pid=Api"
+        }
+    },
+    "synopsis": "On his 30th birthday, a man unexpectedly dies and is reincarnated as Sion, a young noble in a magical world. Alongside his sister Marie, he embarks on a journey to master magic and uncover its secrets.",
+    "type": {
+        "tv": {
+            "seasons": [
+                {
+                    "status": "Completed",
+                    "released": 2025,
+                    "season_number": 1,
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "title": "Rebirth in a Magic World"
+                        },
+                        {
+                            "episode_number": 2,
+                            "title": "The Basics of Magic"
+                        },
+                        {
+                            "episode_number": 3,
+                            "title": "A Mysterious Grimoire"
+                        },
+                        {
+                            "episode_number": 4,
+                            "title": "Sister's First Spell"
+                        },
+                        {
+                            "episode_number": 5,
+                            "title": "A Forbidden Magic"
+                        },
+                        {
+                            "episode_number": 6,
+                            "title": "The Grand Magician’s Test"
+                        },
+                        {
+                            "episode_number": 7,
+                            "title": "New Allies, New Foes"
+                        },
+                        {
+                            "episode_number": 8,
+                            "title": "Exploring the Arcane Library"
+                        },
+                        {
+                            "episode_number": 9,
+                            "title": "Unraveling the Past"
+                        },
+                        {
+                            "episode_number": 10,
+                            "title": "The Final Trial"
+                        },
+                        {
+                            "episode_number": 11,
+                            "title": "A Battle of Magic"
+                        },
+                        {
+                            "episode_number": 12,
+                            "title": "The Future of Magic"
+                        }
+                    ]
+                }
+            ]
+        },
+        "movie": []
+    },
+    "tracker": {
+        "status": "Watching",
+        "progress": 0,
+        "rewatch_count": 0
+    }
+}

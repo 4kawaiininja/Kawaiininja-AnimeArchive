@@ -1,0 +1,83 @@
+{
+    "title": {
+        "Romanji": "Hazure Skill 'Kinomi Master'",
+        "Native": "はずれスキル『木の実マスター』",
+        "English": "Bogus Skill 'Fruitmaster'"
+    },
+    "image": {
+        "season_poster": {
+            "1": "https://tse1.mm.bing.net/th?id=OIP.cby36ymQ3DEGsKgAy3YHxQHaEa&pid=Api"
+        },
+        "background": {
+            "1": "https://tse2.mm.bing.net/th?id=OIP.nqsR2-uiIUtt4XOm8mrEwQHaKh&pid=Api"
+        }
+    },
+    "synopsis": "In a world where eating 'Skill Fruits' grants unique abilities, Light Underwood is given the seemingly useless 'Kinomi Master' skill. However, he soon discovers he can consume multiple Skill Fruits without dying, unlocking hidden potentials that no one else can.",
+    "type": {
+        "tv": {
+            "seasons": [
+                {
+                    "status": "Completed",
+                    "released": 2025,
+                    "season_number": 1,
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "title": "The Useless Skill"
+                        },
+                        {
+                            "episode_number": 2,
+                            "title": "First Taste of Power"
+                        },
+                        {
+                            "episode_number": 3,
+                            "title": "Ayla’s Secret"
+                        },
+                        {
+                            "episode_number": 4,
+                            "title": "The Forbidden Fruit"
+                        },
+                        {
+                            "episode_number": 5,
+                            "title": "A New Rival"
+                        },
+                        {
+                            "episode_number": 6,
+                            "title": "Dungeon of Fruits"
+                        },
+                        {
+                            "episode_number": 7,
+                            "title": "Battle Against the S-Rank"
+                        },
+                        {
+                            "episode_number": 8,
+                            "title": "The Hidden Power"
+                        },
+                        {
+                            "episode_number": 9,
+                            "title": "Light's Awakening"
+                        },
+                        {
+                            "episode_number": 10,
+                            "title": "The Final Test"
+                        },
+                        {
+                            "episode_number": 11,
+                            "title": "A Choice to Make"
+                        },
+                        {
+                            "episode_number": 12,
+                            "title": "The Path of a True Adventurer"
+                        }
+                    ]
+                }
+            ]
+        },
+        "movie": []
+    },
+    "tracker": {
+        "status": "Watching",
+        "progress": 0,
+        "rewatch_count": 0
+    }
+}

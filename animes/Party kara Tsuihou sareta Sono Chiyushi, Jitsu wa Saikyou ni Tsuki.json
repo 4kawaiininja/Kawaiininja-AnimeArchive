@@ -1,0 +1,83 @@
+{
+    "title": {
+        "Romanji": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
+        "Native": "パーティーから追放されたその治癒師、実は最強につき",
+        "English": "The Healer Who Was Banished From His Party, Is, in Fact, the Strongest"
+    },
+    "image": {
+        "season_poster": {
+            "1": "https://tse4.mm.bing.net/th?id=OIP.OcTgBeW0hFC_l0V6a6ZeswAAAA&pid=Api"
+        },
+        "background": {
+            "1": "https://tse2.mm.bing.net/th?id=OIP.rxO1SueqBMZznEdXqkZLQAHaK-&pid=Api"
+        }
+    },
+    "synopsis": "Raust, a healer, is expelled from his adventuring party for being perceived as weak. However, he soon discovers his hidden potential with the help of Narusena, a martial artist, and embarks on a journey to prove his true strength.",
+    "type": {
+        "tv": {
+            "seasons": [
+                {
+                    "status": "Completed",
+                    "released": 2024,
+                    "season_number": 1,
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "title": "The Healer's Banishment"
+                        },
+                        {
+                            "episode_number": 2,
+                            "title": "A New Beginning"
+                        },
+                        {
+                            "episode_number": 3,
+                            "title": "Training with Narusena"
+                        },
+                        {
+                            "episode_number": 4,
+                            "title": "Raust's First Battle"
+                        },
+                        {
+                            "episode_number": 5,
+                            "title": "The Hidden Power Awakens"
+                        },
+                        {
+                            "episode_number": 6,
+                            "title": "The Dungeon Challenge"
+                        },
+                        {
+                            "episode_number": 7,
+                            "title": "A Rival Appears"
+                        },
+                        {
+                            "episode_number": 8,
+                            "title": "Revenge Against the Old Party"
+                        },
+                        {
+                            "episode_number": 9,
+                            "title": "The Truth Behind His Power"
+                        },
+                        {
+                            "episode_number": 10,
+                            "title": "The Ultimate Healing Magic"
+                        },
+                        {
+                            "episode_number": 11,
+                            "title": "A Test of Strength"
+                        },
+                        {
+                            "episode_number": 12,
+                            "title": "Becoming the Strongest Healer"
+                        }
+                    ]
+                }
+            ]
+        },
+        "movie": []
+    },
+    "tracker": {
+        "status": "Watching",
+        "progress": 0,
+        "rewatch_count": 0
+    }
+}
