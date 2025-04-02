@@ -1,0 +1,83 @@
+{
+    "title": {
+        "Romanji": "Handa-kun",
+        "Native": "はんだくん",
+        "English": "Handa-kun"
+    },
+    "image": {
+        "season_poster": {
+            "1": "https://example.com/handa-kun-season1-poster.jpg"
+        },
+        "background": {
+            "1": "https://example.com/handa-kun-background1.jpg"
+        }
+    },
+    "synopsis": "Seishuu Handa is a calligraphy genius who is misunderstood as a delinquent by his classmates. This hilarious prequel to Barakamon follows his high school life and the misunderstandings that come with it.",
+    "type": {
+        "tv": {
+            "seasons": [
+                {
+                    "status": "Completed",
+                    "released": 2016,
+                    "season_number": 1,
+                    "episodes": [
+                        {
+                            "episode_number": 1,
+                            "title": "Handa-kun and His Friends?"
+                        },
+                        {
+                            "episode_number": 2,
+                            "title": "Handa-kun and the Judo Club"
+                        },
+                        {
+                            "episode_number": 3,
+                            "title": "Handa-kun and the Troublemaker"
+                        },
+                        {
+                            "episode_number": 4,
+                            "title": "Handa-kun and the Student Council"
+                        },
+                        {
+                            "episode_number": 5,
+                            "title": "Handa-kun and the School Festival"
+                        },
+                        {
+                            "episode_number": 6,
+                            "title": "Handa-kun and the Chairperson / Handa-kun and the Model"
+                        },
+                        {
+                            "episode_number": 7,
+                            "title": "Handa-kun and the Supplementary Exam"
+                        },
+                        {
+                            "episode_number": 8,
+                            "title": "Handa-kun and the Cultural Festival Preparations"
+                        },
+                        {
+                            "episode_number": 9,
+                            "title": "Handa-kun and the Cultural Festival"
+                        },
+                        {
+                            "episode_number": 10,
+                            "title": "Handa-kun and the School Trip"
+                        },
+                        {
+                            "episode_number": 11,
+                            "title": "Handa-kun and the Average Guy"
+                        },
+                        {
+                            "episode_number": 12,
+                            "title": "Handa-kun and the Unpopular"
+                        }
+                    ]
+                }
+            ]
+        },
+        "movie": []
+    },
+    "tracker": {
+        "status": "Watching",
+        "progress": 0,
+        "rewatch_count": 1
+    }
+}
