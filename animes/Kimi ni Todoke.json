@@ -196,5 +196,10 @@
                 "synopsis": "A Netflix adaptation of the beloved romance story, focusing on the blossoming relationship between Sawako and Kazehaya."
             }
         ]
+    },
+    "tracker": {
+        "status": "Watching",
+        "progress": 0,
+        "rewatch_count": 1
     }
 }

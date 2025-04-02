@@ -76,5 +76,10 @@
             ]
         },
         "movie": []
+    },
+    "tracker": {
+        "status": "Watching",
+        "progress": 0,
+        "rewatch_count": 1
     }
 }
