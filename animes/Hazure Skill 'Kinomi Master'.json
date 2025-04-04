@@ -23,51 +23,87 @@
                     "episodes": [
                         {
                             "episode_number": 1,
-                            "title": "The Useless Skill"
+                            "title": "The Useless Skill",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 2,
-                            "title": "First Taste of Power"
+                            "title": "First Taste of Power",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 3,
-                            "title": "Ayla’s Secret"
+                            "title": "Ayla’s Secret",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 4,
-                            "title": "The Forbidden Fruit"
+                            "title": "The Forbidden Fruit",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 5,
-                            "title": "A New Rival"
+                            "title": "A New Rival",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 6,
-                            "title": "Dungeon of Fruits"
+                            "title": "Dungeon of Fruits",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 7,
-                            "title": "Battle Against the S-Rank"
+                            "title": "Battle Against the S-Rank",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 8,
-                            "title": "The Hidden Power"
+                            "title": "The Hidden Power",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 9,
-                            "title": "Light's Awakening"
+                            "title": "Light's Awakening",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 10,
-                            "title": "The Final Test"
+                            "title": "The Final Test",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 11,
-                            "title": "A Choice to Make"
+                            "title": "A Choice to Make",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 12,
-                            "title": "The Path of a True Adventurer"
+                            "title": "The Path of a True Adventurer",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         }
                     ]
                 }

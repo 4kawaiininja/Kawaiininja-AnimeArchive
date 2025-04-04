@@ -23,7 +23,10 @@
                     "episodes": [
                         {
                             "episode_number": 1,
-                            "title": "Lonely Rolling Bocchi"
+                            "title": "Lonely Rolling Bocchi",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         }
                     ]
                 }

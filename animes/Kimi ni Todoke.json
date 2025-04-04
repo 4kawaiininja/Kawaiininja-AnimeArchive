@@ -25,103 +25,178 @@
                     "episodes": [
                         {
                             "episode_number": 1,
-                            "title": "Prologue"
+                            "title": "Prologue",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 2,
-                            "title": "Seat Change"
+                            "title": "Seat Change",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 3,
-                            "title": "After School"
+                            "title": "After School",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 4,
-                            "title": "Rumors"
+                            "title": "Rumors",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 5,
-                            "title": "Determination"
+                            "title": "Determination",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 6,
-                            "title": "Friends"
+                            "title": "Friends",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 7,
-                            "title": "Saturday Night"
+                            "title": "Saturday Night",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 8,
-                            "title": "Self-Study"
+                            "title": "Self-Study",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 9,
-                            "title": "New Friends"
+                            "title": "New Friends",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 10,
-                            "title": "Fear"
+                            "title": "Fear",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 11,
-                            "title": "Special Event"
+                            "title": "Special Event",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 12,
-                            "title": "Romantic Feelings"
+                            "title": "Romantic Feelings",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 13,
-                            "title": "Gift"
+                            "title": "Gift",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 14,
-                            "title": "Kurumi"
+                            "title": "Kurumi",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 15,
-                            "title": "Rival"
+                            "title": "Rival",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 16,
-                            "title": "Night"
+                            "title": "Night",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 17,
-                            "title": "Holiday"
+                            "title": "Holiday",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 18,
-                            "title": "Love"
+                            "title": "Love",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 19,
-                            "title": "Dream"
+                            "title": "Dream",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 20,
-                            "title": "Present"
+                            "title": "Present",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 21,
-                            "title": "It's Not Like That"
+                            "title": "It's Not Like That",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 22,
-                            "title": "A Different Person"
+                            "title": "A Different Person",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 23,
-                            "title": "Leave it to Me"
+                            "title": "Leave it to Me",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 24,
-                            "title": "Birthday"
+                            "title": "Birthday",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 25,
-                            "title": "New Year"
+                            "title": "New Year",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         }
                     ]
                 },
@@ -132,51 +207,87 @@
                     "episodes": [
                         {
                             "episode_number": 1,
-                            "title": "Valentine"
+                            "title": "Valentine",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 2,
-                            "title": "2nd Years"
+                            "title": "2nd Years",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 3,
-                            "title": "Forget About It"
+                            "title": "Forget About It",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 4,
-                            "title": "Misunderstood"
+                            "title": "Misunderstood",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 5,
-                            "title": "Falling Apart"
+                            "title": "Falling Apart",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 6,
-                            "title": "Soulmates"
+                            "title": "Soulmates",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 7,
-                            "title": "Just Give Up"
+                            "title": "Just Give Up",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 8,
-                            "title": "Reach"
+                            "title": "Reach",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 9,
-                            "title": "Confession"
+                            "title": "Confession",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 10,
-                            "title": "From Now On"
+                            "title": "From Now On",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 11,
-                            "title": "Moving Forward"
+                            "title": "Moving Forward",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 12,
-                            "title": "Final Episode"
+                            "title": "Final Episode",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         }
                     ]
                 }

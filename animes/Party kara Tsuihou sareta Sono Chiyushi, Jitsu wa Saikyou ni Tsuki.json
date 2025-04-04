@@ -23,51 +23,87 @@
                     "episodes": [
                         {
                             "episode_number": 1,
-                            "title": "The Healer's Banishment"
+                            "title": "The Healer's Banishment",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 2,
-                            "title": "A New Beginning"
+                            "title": "A New Beginning",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 3,
-                            "title": "Training with Narusena"
+                            "title": "Training with Narusena",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 4,
-                            "title": "Raust's First Battle"
+                            "title": "Raust's First Battle",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 5,
-                            "title": "The Hidden Power Awakens"
+                            "title": "The Hidden Power Awakens",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 6,
-                            "title": "The Dungeon Challenge"
+                            "title": "The Dungeon Challenge",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 7,
-                            "title": "A Rival Appears"
+                            "title": "A Rival Appears",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 8,
-                            "title": "Revenge Against the Old Party"
+                            "title": "Revenge Against the Old Party",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 9,
-                            "title": "The Truth Behind His Power"
+                            "title": "The Truth Behind His Power",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 10,
-                            "title": "The Ultimate Healing Magic"
+                            "title": "The Ultimate Healing Magic",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 11,
-                            "title": "A Test of Strength"
+                            "title": "A Test of Strength",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 12,
-                            "title": "Becoming the Strongest Healer"
+                            "title": "Becoming the Strongest Healer",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         }
                     ]
                 }

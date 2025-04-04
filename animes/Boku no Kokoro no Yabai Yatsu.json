@@ -1,108 +1,108 @@
 {
     "title": {
-        "Romanji": "Solo Leveling",
-        "Native": "俺だけレベルアップな件",
-        "English": "Solo Leveling"
+        "Romanji": "Boku no Kokoro no Yabai Yatsu",
+        "Native": "僕の心のヤバイやつ",
+        "English": "The Dangers in My Heart"
     },
     "image": {
         "season_poster": {
-            "1": "https://i.pinimg.com/736x/64/af/4e/64af4e82a80625d92414af68df8ceef5.jpg",
-            "2": "https://i.pinimg.com/736x/24/21/73/242173e99cc59cedca0bd19259ffdede.jpg"
+            "1": "",
+            "2": ""
         },
         "background": {
-            "1": "https://i.pinimg.com/736x/46/ba/63/46ba6325fe4caf6ea0b3abcf1b5d060d.jpg",
-            "2": "https://i.pinimg.com/736x/23/db/bd/23dbbda00d8fcb7f3eb1b2e2066f3836.jpg"
+            "1": "",
+            "2": ""
         }
     },
-    "synopsis": "Follows the adventures of Sung Jinwoo in a world that is constantly threatened by monsters and evil forces. In his battles Sung transforms himself from the weakest hunter of all mankind to one of the strongest hunters in existence. In a world where hunters, humans who possess magical abilities, must battle deadly monsters to protect the human race from certain annihilation, a notoriously weak hunter named Sung Jinwoo finds himself in a seemingly endless struggle for survival. One day, after narrowly surviving an overwhelmingly powerful double dungeon that nearly wipes out his entire party, a mysterious program called the System chooses him as its sole player and in turn, gives him the extremely rare ability to level up in strength, possibly beyond any known limits. Jinwoo then sets out on a journey as he fights against all kinds of enemies, both man and monster, to discover the secrets of the dungeons and the true source of his powers.",
+    "synopsis": "",
     "type": {
         "tv": {
             "seasons": [
                 {
-                    "status": "Completed",
-                    "released": 2024,
+                    "status": "Released",
+                    "released": 2023,
                     "season_number": 1,
                     "episodes": [
                         {
                             "episode_number": 1,
-                            "title": "I'm Used to It",
+                            "title": "I Was Stolen Away",
                             "tracker": {
                                 "status": "Not Watched"
                             }
                         },
                         {
                             "episode_number": 2,
-                            "title": "If I Had One More Chance",
+                            "title": "I Died",
                             "tracker": {
                                 "status": "Not Watched"
                             }
                         },
                         {
                             "episode_number": 3,
-                            "title": "It's Like a Game",
+                            "title": "I Want to Hug You",
                             "tracker": {
                                 "status": "Not Watched"
                             }
                         },
                         {
                             "episode_number": 4,
-                            "title": "I've Gotta Get Stronger",
+                            "title": "I Have a Problem",
                             "tracker": {
                                 "status": "Not Watched"
                             }
                         },
                         {
                             "episode_number": 5,
-                            "title": "A Pretty Good Deal",
+                            "title": "We Got Split Up",
                             "tracker": {
                                 "status": "Not Watched"
                             }
                         },
                         {
                             "episode_number": 6,
-                            "title": "The Real Hunt Begins",
+                            "title": "I Melted It",
                             "tracker": {
                                 "status": "Not Watched"
                             }
                         },
                         {
                             "episode_number": 7,
-                            "title": "Let's See How Far I Can Go",
+                            "title": "We Swapped Places",
                             "tracker": {
                                 "status": "Not Watched"
                             }
                         },
                         {
                             "episode_number": 8,
-                            "title": "This Is Frustrating",
+                            "title": "I Had a Dream",
                             "tracker": {
                                 "status": "Not Watched"
                             }
                         },
                         {
                             "episode_number": 9,
-                            "title": "You've Been Hiding Your Skills",
+                            "title": "I Hate Yamada",
                             "tracker": {
                                 "status": "Not Watched"
                             }
                         },
                         {
                             "episode_number": 10,
-                            "title": "What Is This, a Picnic?",
+                            "title": "We Walked Slowly",
                             "tracker": {
                                 "status": "Not Watched"
                             }
                         },
                         {
                             "episode_number": 11,
-                            "title": "A Knight Who Defends an Empty Throne",
+                            "title": "We're a Bit Alike",
                             "tracker": {
                                 "status": "Not Watched"
                             }
                         },
                         {
                             "episode_number": 12,
-                            "title": "Arise",
+                            "title": "I Wanted to Be Seen",
                             "tracker": {
                                 "status": "Not Watched"
                             }
@@ -110,90 +110,97 @@
                     ]
                 },
                 {
-                    "status": "Completed",
-                    "released": 2025,
+                    "status": "Released",
+                    "released": 2024,
                     "season_number": 2,
                     "episodes": [
                         {
                             "episode_number": 1,
-                            "title": "You Aren't E-Rank, Are You?",
+                            "title": "Twi-Yaba",
                             "tracker": {
                                 "status": "Not Watched"
                             }
                         },
                         {
                             "episode_number": 2,
-                            "title": "I Suppose You Aren't Aware",
+                            "title": "We've Been Searching",
                             "tracker": {
                                 "status": "Not Watched"
                             }
                         },
                         {
                             "episode_number": 3,
-                            "title": "Still a Long Way to Go",
+                            "title": "I'm on the Verge of Growing Up",
                             "tracker": {
                                 "status": "Not Watched"
                             }
                         },
                         {
                             "episode_number": 4,
-                            "title": "I Need to Stop Faking",
+                            "title": "I Want Yamada to",
                             "tracker": {
                                 "status": "Not Watched"
                             }
                         },
                         {
                             "episode_number": 5,
-                            "title": "This Is What We're Trained to Do",
+                            "title": "Yamada and I",
                             "tracker": {
                                 "status": "Not Watched"
                             }
                         },
                         {
                             "episode_number": 6,
-                            "title": "Don't Look Down on My Guys",
+                            "title": "I Want to Know",
                             "tracker": {
                                 "status": "Not Watched"
                             }
                         },
                         {
                             "episode_number": 7,
-                            "title": "The 10th S-Rank Hunter",
+                            "title": "Yamada Likes Me",
                             "tracker": {
                                 "status": "Not Watched"
                             }
                         },
                         {
                             "episode_number": 8,
-                            "title": "Looking Up Was Tiring Me Out",
+                            "title": "We Are Overflowing",
                             "tracker": {
                                 "status": "Not Watched"
                             }
                         },
                         {
                             "episode_number": 9,
-                            "title": "It Was All Worth It",
+                            "title": "We Stayed Up",
                             "tracker": {
                                 "status": "Not Watched"
                             }
                         },
                         {
                             "episode_number": 10,
-                            "title": "We Need a Hero",
+                            "title": "We Made a Promise",
                             "tracker": {
                                 "status": "Not Watched"
                             }
                         },
                         {
                             "episode_number": 11,
-                            "title": "It's Going to Get More Intense",
+                            "title": "I Want to Get Closer to Yamada",
                             "tracker": {
                                 "status": "Not Watched"
                             }
                         },
                         {
                             "episode_number": 12,
-                            "title": "Are You King of the Humans?",
+                            "title": "I Don't Want to Lose",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
+                        },
+                        {
+                            "episode_number": 13,
+                            "title": "I Want to Tell Her",
                             "tracker": {
                                 "status": "Not Watched"
                             }
@@ -202,14 +209,7 @@
                 }
             ]
         },
-        "movie": [
-            {
-                "title": "Solo Leveling: ReAwakening",
-                "status": "Released",
-                "released": 2024,
-                "synopsis": "Over a decade after 'gates' connecting worlds appeared, awakening 'hunters' with superpowers, weakest hunter Sung Jinwoo encounters a double dungeon and accepts a mysterious quest, becoming the only one able to level up, changing his fate."
-            }
-        ]
+        "movie": []
     },
     "tracker": {
         "status": "Watching",

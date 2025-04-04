@@ -25,51 +25,87 @@
                     "episodes": [
                         {
                             "episode_number": 1,
-                            "title": "Reincarnated Without Memories"
+                            "title": "Reincarnated Without Memories",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 2,
-                            "title": "Dark Knight"
+                            "title": "Dark Knight",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 3,
-                            "title": "Demon"
+                            "title": "Demon",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 4,
-                            "title": "Demon Lord's Daughter"
+                            "title": "Demon Lord's Daughter",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 5,
-                            "title": "Clash! Battle of the Mighty"
+                            "title": "Clash! Battle of the Mighty",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 6,
-                            "title": "Arthur and the Knights of the Round"
+                            "title": "Arthur and the Knights of the Round",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 7,
-                            "title": "Hero Summoning"
+                            "title": "Hero Summoning",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 8,
-                            "title": "Returning to Parth"
+                            "title": "Returning to Parth",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 9,
-                            "title": "Gambling Power"
+                            "title": "Gambling Power",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 10,
-                            "title": "Rank S Promotion Exam"
+                            "title": "Rank S Promotion Exam",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 11,
-                            "title": "Another Reincarnated"
+                            "title": "Another Reincarnated",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 12,
-                            "title": "Battle of the Demon"
+                            "title": "Battle of the Demon",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         }
                     ]
                 }

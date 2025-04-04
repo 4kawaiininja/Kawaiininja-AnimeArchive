@@ -23,51 +23,87 @@
                     "episodes": [
                         {
                             "episode_number": 1,
-                            "title": "Handa-kun and His Friends?"
+                            "title": "Handa-kun and His Friends?",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 2,
-                            "title": "Handa-kun and the Judo Club"
+                            "title": "Handa-kun and the Judo Club",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 3,
-                            "title": "Handa-kun and the Troublemaker"
+                            "title": "Handa-kun and the Troublemaker",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 4,
-                            "title": "Handa-kun and the Student Council"
+                            "title": "Handa-kun and the Student Council",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 5,
-                            "title": "Handa-kun and the School Festival"
+                            "title": "Handa-kun and the School Festival",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 6,
-                            "title": "Handa-kun and the Chairperson / Handa-kun and the Model"
+                            "title": "Handa-kun and the Chairperson / Handa-kun and the Model",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 7,
-                            "title": "Handa-kun and the Supplementary Exam"
+                            "title": "Handa-kun and the Supplementary Exam",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 8,
-                            "title": "Handa-kun and the Cultural Festival Preparations"
+                            "title": "Handa-kun and the Cultural Festival Preparations",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 9,
-                            "title": "Handa-kun and the Cultural Festival"
+                            "title": "Handa-kun and the Cultural Festival",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 10,
-                            "title": "Handa-kun and the School Trip"
+                            "title": "Handa-kun and the School Trip",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 11,
-                            "title": "Handa-kun and the Average Guy"
+                            "title": "Handa-kun and the Average Guy",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 12,
-                            "title": "Handa-kun and the Unpopular"
+                            "title": "Handa-kun and the Unpopular",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         }
                     ]
                 }

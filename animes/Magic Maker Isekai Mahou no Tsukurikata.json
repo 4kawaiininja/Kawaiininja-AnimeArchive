@@ -23,51 +23,87 @@
                     "episodes": [
                         {
                             "episode_number": 1,
-                            "title": "Rebirth in a Magic World"
+                            "title": "Rebirth in a Magic World",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 2,
-                            "title": "The Basics of Magic"
+                            "title": "The Basics of Magic",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 3,
-                            "title": "A Mysterious Grimoire"
+                            "title": "A Mysterious Grimoire",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 4,
-                            "title": "Sister's First Spell"
+                            "title": "Sister's First Spell",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 5,
-                            "title": "A Forbidden Magic"
+                            "title": "A Forbidden Magic",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 6,
-                            "title": "The Grand Magician’s Test"
+                            "title": "The Grand Magician’s Test",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 7,
-                            "title": "New Allies, New Foes"
+                            "title": "New Allies, New Foes",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 8,
-                            "title": "Exploring the Arcane Library"
+                            "title": "Exploring the Arcane Library",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 9,
-                            "title": "Unraveling the Past"
+                            "title": "Unraveling the Past",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 10,
-                            "title": "The Final Trial"
+                            "title": "The Final Trial",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 11,
-                            "title": "A Battle of Magic"
+                            "title": "A Battle of Magic",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 12,
-                            "title": "The Future of Magic"
+                            "title": "The Future of Magic",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         }
                     ]
                 }

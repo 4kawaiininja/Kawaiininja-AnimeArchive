@@ -25,51 +25,87 @@
                     "episodes": [
                         {
                             "episode_number": 1,
-                            "title": "Like a Lone Sword"
+                            "title": "Like a Lone Sword",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 2,
-                            "title": "As Though Undaunted"
+                            "title": "As Though Undaunted",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 3,
-                            "title": "Order & Watcher"
+                            "title": "Order & Watcher",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 4,
-                            "title": "The Eve of the Grand Festival"
+                            "title": "The Eve of the Grand Festival",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 5,
-                            "title": "Raise the Starting Pistol"
+                            "title": "Raise the Starting Pistol",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 6,
-                            "title": "Between Pride and Passion"
+                            "title": "Between Pride and Passion",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 7,
-                            "title": "Twelve Secret Ice Magics, El Glace Frosse"
+                            "title": "Twelve Secret Ice Magics, El Glace Frosse",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 8,
-                            "title": "Shall we date?"
+                            "title": "Shall we date?",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 9,
-                            "title": "Praxis Begins"
+                            "title": "Praxis Begins",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 10,
-                            "title": "Our Dream"
+                            "title": "Our Dream",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 11,
-                            "title": "The True Name of Cowards"
+                            "title": "The True Name of Cowards",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 12,
-                            "title": "Wand and Sword"
+                            "title": "Wand and Sword",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         }
                     ]
                 }

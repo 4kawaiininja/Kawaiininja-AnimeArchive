@@ -25,99 +25,171 @@
                     "episodes": [
                         {
                             "episode_number": 1,
-                            "title": "Maomao"
+                            "title": "Maomao",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 2,
-                            "title": "Chilly Apothecary"
+                            "title": "Chilly Apothecary",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 3,
-                            "title": "The Unsettling Matter of the Spirit"
+                            "title": "The Unsettling Matter of the Spirit",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 4,
-                            "title": "The Garden Party"
+                            "title": "The Garden Party",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 5,
-                            "title": "The Cat's Death Anniversary"
+                            "title": "The Cat's Death Anniversary",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 6,
-                            "title": "The Scent of a Kill"
+                            "title": "The Scent of a Kill",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 7,
-                            "title": "The Apothecary's Test"
+                            "title": "The Apothecary's Test",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 8,
-                            "title": "The Snake's Venom"
+                            "title": "The Snake's Venom",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 9,
-                            "title": "The Phantom of the Inner Palace"
+                            "title": "The Phantom of the Inner Palace",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 10,
-                            "title": "The Emperor's Illness"
+                            "title": "The Emperor's Illness",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 11,
-                            "title": "The Court Physician's Secret"
+                            "title": "The Court Physician's Secret",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 12,
-                            "title": "The Apothecary's Dilemma"
+                            "title": "The Apothecary's Dilemma",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 13,
-                            "title": "The Red Hair"
+                            "title": "The Red Hair",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 14,
-                            "title": "The Missing Maomao"
+                            "title": "The Missing Maomao",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 15,
-                            "title": "The Investigation"
+                            "title": "The Investigation",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 16,
-                            "title": "The Truth Unveiled"
+                            "title": "The Truth Unveiled",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 17,
-                            "title": "The Betrayal"
+                            "title": "The Betrayal",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 18,
-                            "title": "The Rescue"
+                            "title": "The Rescue",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 19,
-                            "title": "The Aftermath"
+                            "title": "The Aftermath",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 20,
-                            "title": "The New Assignment"
+                            "title": "The New Assignment",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 21,
-                            "title": "The Hidden Threat"
+                            "title": "The Hidden Threat",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 22,
-                            "title": "The Confrontation"
+                            "title": "The Confrontation",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 23,
-                            "title": "The Resolution"
+                            "title": "The Resolution",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 24,
-                            "title": "The Beginning of a New Chapter"
+                            "title": "The Beginning of a New Chapter",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         }
                     ]
                 },
@@ -128,95 +200,164 @@
                     "episodes": [
                         {
                             "episode_number": 1,
-                            "title": "Return to the Palace"
+                            "title": "Return to the Palace",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 2,
-                            "title": "A New Mystery"
+                            "title": "A New Mystery",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 3,
-                            "title": "The Secret Letter"
+                            "title": "The Secret Letter",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 4,
-                            "title": "The Noble's Request"
+                            "title": "The Noble's Request",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 5,
-                            "title": "The Unseen Threat"
+                            "title": "The Unseen Threat",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 6,
-                            "title": "The Emperor's Condition"
+                            "title": "The Emperor's Condition",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 7,
-                            "title": "The Hidden Ingredient"
+                            "title": "The Hidden Ingredient",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 8,
-                            "title": "The Rival Apothecary"
+                            "title": "The Rival Apothecary",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 9,
-                            "title": "The Forbidden Experiment"
+                            "title": "The Forbidden Experiment",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 10,
-                            "title": "The Royal Banquet"
+                            "title": "The Royal Banquet",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 11,
-                            "title": "The Poisonous Truth"
+                            "title": "The Poisonous Truth",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 12,
-                            "title": "The Unexpected Turn"
+                            "title": "The Unexpected Turn",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 13,
-                            "title": "The Next Step"
+                            "title": "The Next Step",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 14,
-                            "title": "The Next Step"
+                            "title": "The Next Step",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 16,
-                            "title": "The Next Step"
+                            "title": "The Next Step",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 17,
-                            "title": "The Next Step"
+                            "title": "The Next Step",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 18,
-                            "title": "The Next Step"
+                            "title": "The Next Step",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 19,
-                            "title": "The Next Step"
+                            "title": "The Next Step",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 20,
-                            "title": "The Next Step"
+                            "title": "The Next Step",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 21,
-                            "title": "The Next Step"
+                            "title": "The Next Step",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 22,
-                            "title": "The Next Step"
+                            "title": "The Next Step",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 23,
-                            "title": "The Next Step"
+                            "title": "The Next Step",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 24,
-                            "title": "The Next Step"
+                            "title": "The Next Step",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         }
                     ]
                 }

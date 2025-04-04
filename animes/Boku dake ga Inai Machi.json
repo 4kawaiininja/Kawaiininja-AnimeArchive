@@ -25,51 +25,87 @@
                     "episodes": [
                         {
                             "episode_number": 1,
-                            "title": "Flashing Before My Eyes"
+                            "title": "Flashing Before My Eyes",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 2,
-                            "title": "Palm of the Hand"
+                            "title": "Palm of the Hand",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 3,
-                            "title": "Birthmark"
+                            "title": "Birthmark",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 4,
-                            "title": "Accomplishment"
+                            "title": "Accomplishment",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 5,
-                            "title": "Getaway"
+                            "title": "Getaway",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 6,
-                            "title": "Grim Reaper"
+                            "title": "Grim Reaper",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 7,
-                            "title": "Out of Control"
+                            "title": "Out of Control",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 8,
-                            "title": "Spiral"
+                            "title": "Spiral",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 9,
-                            "title": "Closure"
+                            "title": "Closure",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 10,
-                            "title": "Joy"
+                            "title": "Joy",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 11,
-                            "title": "Future"
+                            "title": "Future",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 12,
-                            "title": "Treasure"
+                            "title": "Treasure",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         }
                     ]
                 }

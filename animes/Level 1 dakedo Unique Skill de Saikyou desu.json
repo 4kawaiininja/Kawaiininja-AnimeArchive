@@ -25,51 +25,87 @@
                     "episodes": [
                         {
                             "episode_number": 1,
-                            "title": "He's a Human That Was Dropped by a Slime"
+                            "title": "He's a Human That Was Dropped by a Slime",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 2,
-                            "title": "Dead or Carrot"
+                            "title": "Dead or Carrot",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 3,
-                            "title": "Kill All the Little Black Things"
+                            "title": "Kill All the Little Black Things",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 4,
-                            "title": "Moving to a New Place! Just Relaxing at Home"
+                            "title": "Moving to a New Place! Just Relaxing at Home",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 5,
-                            "title": "Yay! It's My Turn Now"
+                            "title": "Yay! It's My Turn Now",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 6,
-                            "title": "A Beautiful Girl Appears"
+                            "title": "A Beautiful Girl Appears",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 7,
-                            "title": "This Dungeon Battle Is a Vortex of Schemes"
+                            "title": "This Dungeon Battle Is a Vortex of Schemes",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 8,
-                            "title": "You Can Do It! Get 'Em, Celeste!"
+                            "title": "You Can Do It! Get 'Em, Celeste!",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 9,
-                            "title": "We've All Been Waiting! It's Eve's Turn to Shine"
+                            "title": "We've All Been Waiting! It's Eve's Turn to Shine",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 10,
-                            "title": "The Arrival of Alice"
+                            "title": "The Arrival of Alice",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 11,
-                            "title": "Time for the Harvest Festival"
+                            "title": "Time for the Harvest Festival",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         },
                         {
                             "episode_number": 12,
-                            "title": "We're All Having a Party"
+                            "title": "We're All Having a Party",
+                            "tracker": {
+                                "status": "Not Watched"
+                            }
                         }
                     ]
                 }
